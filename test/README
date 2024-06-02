@@ -9,3 +9,13 @@ in the development cycle.
 
 More information about PlatformIO Unit Testing:
 - https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+
+
+git init
+git add .
+git status
+git commit -m "first commit"
+git branch -m main
+git remote add githubRepo git@github.com:byyasar/esp32bluetooth.git
+git push -u githubRepo main olmazsa git push -f githubRepo main
