@@ -19,3 +19,4 @@ git commit -m "first commit"
 git branch -m main
 git remote add githubRepo git@github.com:byyasar/esp32bluetooth.git
 git push -u githubRepo main olmazsa git push -f githubRepo main
+https://www.youtube.com/watch?v=9823okRijgU
